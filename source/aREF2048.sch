@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Precision Voltage Reference 2.048V"
 Date ""
 Rev ""
-Comp ""
+Comp "a.lab"
 Comment1 ""
-Comment2 ""
+Comment2 "Andrey Sagaydako"
 Comment3 ""
 Comment4 ""
 $EndDescr
